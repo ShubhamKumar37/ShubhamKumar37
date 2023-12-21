@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamKumar37
 - 👀 I’m interested in something new
-- 🌱 I’m currently Web Development
+- 🌱 I’m currently learning Webdevelopment
 - 💞️ I’m looking to collaborate on ..None
 - 📫 How to reach me https://www.linkedin.com/in/shubham-kumar-203b33231/
 
